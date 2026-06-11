@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Shashwat Pal 👋
+# Hi there, I'm Shashwat
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Data+Engineer+in+the+making;Snowflake+%2B+Databricks+Certified;AI+Patent+Co-Author;Building+cloud-native+data+pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Data+Science+Engineer+in+the+making;Snowflake+%2B+Databricks+Certified;AI+Patent+Co-Author;Building+cloud-native+data+pipelines" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shashwatpalportfolio.lovable.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shashwatpalportfolio.lovable.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shashwat--pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwat-pal)
