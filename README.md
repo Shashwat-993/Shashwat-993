@@ -1,133 +1,67 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
-</div>
-
-<h1 align="center">Hi, I'm Shashwat Pal 👋</h1>
+<h1 align="center">Hi, I'm Shashwat </h1>
 
 <p align="center">
-  <b>Data Engineer</b> — Cloud Data Platforms · Agentic AI · Analytics
+  <strong>Data Engineer building scalable data platforms, analytics, and AI applications.</strong>
 </p>
 
 <p align="center">
-  🟢 <b>Open to Data Engineer / Analytics Engineer roles</b>
+  <a href="mailto:shashwatpal32@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/shashwat-pal">LinkedIn</a> ·
+  <a href="https://github.com/Shashwat-993">GitHub</a>
 </p>
 
-<p align="center">
-  <a href="mailto:shashwatpal32@gmail.com">📧 shashwatpal32@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://shashwatpalportfolio.lovable.app">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/shashwat-pal">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/ShashwatPal9">🐦 Twitter</a>
-</p>
+- Building [MentalPulse](https://github.com/Shashwat-993/MentalPulse-Reddit-Mental-Health-Trend-Analyzer), an end-to-end mental-health analytics platform using Databricks, dbt, Snowflake, and LangGraph.
+- Interested in data pipelines, analytics engineering, RAG systems, and agentic AI.
+- Co-authored patented research on AI-powered e-waste classification.
+- Open to **Data Engineer** and **Analytics Engineer** opportunities.
 
----
-
-## 🚀 About Me
-
-- 🔭 Building **[MentalPulse](https://github.com/Shashwat-993/MentalPulse-Reddit-Mental-Health-Trend-Analyzer)** — HuggingFace → Databricks Delta Lake → dbt → Snowflake Cortex → LangGraph + Claude agent → Streamlit-in-Snowflake
-- 📜 Co-authored **patented AI research** on e-waste classification (App. No. 202511054210)
-- ❄️ **Snowflake DE Professional** | 🧱 **Databricks** | 🤖 **Anthropic MCP Advanced** certified
-- 💬 Ask me about **data pipelines, RAG, or agentic workflows**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-</p>
-
-**Web & Frameworks**
-
-<p align="left">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
-
-**Databases**
-
-<p align="left">
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-</p>
-
-**ML / Data Science**
-
-<p align="left">
-  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-</p>
-
-**DevOps & Tools**
-
-<p align="left">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-</p>
-
-**Data Platform & Agentic AI**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧠 **[MentalPulse](https://github.com/Shashwat-993/MentalPulse-Reddit-Mental-Health-Trend-Analyzer)** | End-to-end mental health analytics platform — Delta Lake ingestion, dbt transformations, Snowflake Cortex Search, LangGraph + Claude agent served via Streamlit-in-Snowflake | Databricks · dbt · Snowflake · LangGraph |
-| ♻️ **[AI E-Waste Sorting](https://github.com/Shashwat-993/AI-Powered-E-waste-sorting-system-research-project)** | **Patented** — COCO-SSD at 85%+ mAP / 132ms latency on Raspberry Pi, 18 items/min throughput with React monitoring dashboard | TensorFlow.js · Raspberry Pi · React |
-| 🚗 **[License Plate Detection](https://github.com/Shashwat-993/-License-Plate-Detection-and-Recognition-System)** | Custom OCR pipeline — 95% recognition accuracy, 3× faster processing via optimized backend | PyTorch · OpenCV · MySQL |
-| 🧬 **[PIXOGENE](https://github.com/Shashwat-993/image-encryption-project)** | Lossless image encryption via DNA base-sequence pixel mapping + XOR transformation, validated with histogram analysis | Python · JavaScript · Cryptography |
-| ⛓️ **[Blockchain Supply Chain](https://github.com/Shashwat-993/Blockchain-Based-Supply-Chain-Transparency-System)** | Ethereum smart contracts for custody tracking with role-based access control and React + Web3.js frontend | Solidity · Node.js · React |
-
----
-
-## 📜 Certifications
-
-| Badge | Certification | Issuer | Year |
-|-------|--------------|--------|------|
-| ❄️ | Data Engineering Professional | Snowflake | 2026 |
-| 🧱 | Databricks Fundamentals | Databricks Academy | 2026 |
-| 🤖 | Model Context Protocol: Advanced Topics | Anthropic | 2025 |
-| 🧠 | Foundations of AI and Machine Learning | Microsoft | 2025 |
-| ☁️ | AWS Cloud Technical Essentials | AWS | 2024 |
-| 📊 | Data Analytics Professional Certificate | Google | 2024 |
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">⚙️ Technologies I Use</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashwat-993&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-993&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shashwat-993&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <i>"Build pipelines that think."</i>
+  <table>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=000000&labelColor=000000" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-informational?style=flat&logo=databricks&logoColor=white&color=000000&labelColor=000000" alt="SQL" />
+        <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=ffffff&labelColor=ffffff" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=white&color=000000&labelColor=000000" alt="Java" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Data Engineering</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=000000&labelColor=000000" alt="Databricks" />
+        <img src="https://img.shields.io/badge/Snowflake-informational?style=flat&logo=snowflake&logoColor=black&color=ffffff&labelColor=ffffff" alt="Snowflake" />
+        <img src="https://img.shields.io/badge/dbt-informational?style=flat&logo=dbt&logoColor=white&color=000000&labelColor=000000" alt="dbt" />
+        <img src="https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=black&color=ffffff&labelColor=ffffff" alt="Pandas" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>AI & ML</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/LangGraph-informational?style=flat&logo=langchain&logoColor=white&color=000000&labelColor=000000" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Claude-informational?style=flat&logo=anthropic&logoColor=black&color=ffffff&labelColor=ffffff" alt="Claude" />
+        <img src="https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=000000&labelColor=000000" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=black&color=ffffff&labelColor=ffffff" alt="TensorFlow" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=000000&labelColor=000000" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=black&color=ffffff&labelColor=ffffff" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=000000&labelColor=000000" alt="MongoDB" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Cloud & Tools</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=000000&labelColor=000000" alt="AWS" />
+        <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=black&color=ffffff&labelColor=ffffff" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=000000&labelColor=000000" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=black&color=ffffff&labelColor=ffffff" alt="GitHub" />
+      </td>
+    </tr>
+  </table>
 </div>
