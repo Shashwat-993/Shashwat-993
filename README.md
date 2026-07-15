@@ -15,7 +15,7 @@
 - Co-authored patented research on AI-powered e-waste classification.
 - Open to **Data Engineer** and **Analytics Engineer** opportunities.
 
-<h2 align="center">⚙️ Technologies I Use</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <table>
