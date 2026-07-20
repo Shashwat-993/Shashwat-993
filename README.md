@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:shashwatpal32@gmail.com">Email</a> ·
-  <a href="www.linkedin.com/in/shashwat-pal-445101193">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/shashwat-pal-445101193">LinkedIn</a>
 </p>
 
 - Building [MentalPulse](https://github.com/Shashwat-993/MentalPulse-Reddit-Mental-Health-Trend-Analyzer), an end-to-end mental-health analytics platform using Databricks, dbt, Snowflake, and LangGraph.
